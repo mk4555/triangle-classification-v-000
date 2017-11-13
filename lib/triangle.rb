@@ -1,11 +1,11 @@
 class Triangle
-
+  attr_accessor :kind
   # write code here
   def initialize()
   end
 
   def self.kind
-    
+
   end
 end
 
