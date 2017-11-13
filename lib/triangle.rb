@@ -1,8 +1,8 @@
 class Triangle
-  attr_accessor :kind
+  attr_accessor :side
   # write code here
   def initialize()
-    
+
   end
 
   def self.kind
